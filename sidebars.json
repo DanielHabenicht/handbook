@@ -75,7 +75,8 @@
           "devops-guide/turn",
           "devops-guide/speakerstats",
           "devops-guide/videosipgw",
-          "devops-guide/cloud-api"
+          "devops-guide/cloud-api",
+          "devops-guide/devops-guide-jitsi-web"
         ]
       },
       "devops-guide/devops-guide-videotutorials",
